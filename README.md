@@ -6,9 +6,11 @@ e como gerenciador de pacotes do NodeJS o npm.
 
 ##Sobre
 Esse foi um dos primeiros projetos que fiz em React. Inicialmente a página mostra playlists criadas pelo usuário. Com a opção de adicionar uma playlist nova, mostrar conteúdo de uma playlist especifica , deletar uma playlist e adicionar conteúdo a alguma playlist já criada com o código da música do Spotify. Ao clicar em “Mostrar Conteúdo” , vemos instruções de como adicionar músicas as playlists.
-Libs usadas: 
+Libs instaladas: 
   -axios
   -styled-components
+  
+Obs.: arquivo packaje.json contem as versões de todas as dependências
 
 
 Instruções para rodar
